@@ -1,0 +1,11 @@
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\repos\ArraysSolution\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\repos\ArraysSolution\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\repos\ArraysSolution\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\repos\ArraysSolution\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\repos\ArraysSolution\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\repos\ArraysSolution\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
